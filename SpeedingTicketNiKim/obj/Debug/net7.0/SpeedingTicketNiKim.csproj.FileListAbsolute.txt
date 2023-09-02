@@ -1,0 +1,14 @@
+C:\Users\CK\source\repos\SpeedingTicketNiKim\bin\Debug\net7.0\SpeedingTicketNiKim.exe
+C:\Users\CK\source\repos\SpeedingTicketNiKim\bin\Debug\net7.0\SpeedingTicketNiKim.deps.json
+C:\Users\CK\source\repos\SpeedingTicketNiKim\bin\Debug\net7.0\SpeedingTicketNiKim.runtimeconfig.json
+C:\Users\CK\source\repos\SpeedingTicketNiKim\bin\Debug\net7.0\SpeedingTicketNiKim.dll
+C:\Users\CK\source\repos\SpeedingTicketNiKim\bin\Debug\net7.0\SpeedingTicketNiKim.pdb
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.AssemblyInfoInputs.cache
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.AssemblyInfo.cs
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.csproj.CoreCompileInputs.cache
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.dll
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\refint\SpeedingTicketNiKim.dll
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.pdb
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\SpeedingTicketNiKim.genruntimeconfig.cache
+C:\Users\CK\source\repos\SpeedingTicketNiKim\obj\Debug\net7.0\ref\SpeedingTicketNiKim.dll
